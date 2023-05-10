@@ -7,10 +7,6 @@ body {
   font-family: "Patrick Hand", cursive;
   scroll-behavior: smooth;
 }
-.fav img {
-  width: 350px;
-  height: 500px;
-}
 .Gallery {
   background-image: url(seamless-pattern-with-cute-corgi-dogs-paws-and-hearts-in-cartoon-doodle-style-illustration-background-vector.webp);
 }
@@ -52,6 +48,9 @@ body {
 .pic7 {
   width: 700px;
   height: 375px;
+}
+.pic8 {
+  width: 50px;
 }
 .about h1 {
   color: rgb(39, 27, 11);
