@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Patrick Hand", cursive;
+  scroll-behavior: smooth;
+}
+.fav img {
+  width: 350px;
+  height: 500px;
+}
+.Gallery {
+  background-image: url(seamless-pattern-with-cute-corgi-dogs-paws-and-hearts-in-cartoon-doodle-style-illustration-background-vector.webp);
+}
+.Favorite {
+  background-image: url(seamless-pattern-with-cute-corgi-dogs-paws-and-hearts-in-cartoon-doodle-style-illustration-background-vector.webp);
+}
+.about {
+  background-image: url(istockphoto-1149618050-612x612.jpeg);
+}
+.breed {
+  background-image: url(Head\ Banner.png);
+  height: 175px;
+}
+.logo {
+  background-image: url(bacon.png);
+}
+.pic1 {
+  width: 500px;
+}
+.pic2 {
+  width: 275px;
+  height: 375px;
+}
+.pic3 {
+  width: 350px;
+  height: 500px;
+}
+.pic4 {
+  width: 200px;
+}
+.pic5 {
+  width: 400px;
+  height: 375px;
+}
+.pic6 {
+  width: 225px;
+  height: 375px;
+}
+.pic7 {
+  width: 700px;
+  height: 375px;
+}
+.about h1 {
+  color: rgb(39, 27, 11);
+}
+.about p {
+  color: rgb(56, 47, 35);
+  background: linear-gradient(rgb(159, 126, 93), rgb(223, 172, 124));
+}
+.logo {
+  width: 100%;
+  height: 700px;
+}
+.Gallery {
+  color: rgb(177, 97, 26);
+}
+.Favorite {
+  color: rgb(56, 47, 35);
+}
+.Favorite p {
+  color: rgb(56, 47, 35);
+}
+.breed {
+  color: rgb(140, 41, 41);
+}
+.breed p {
+  color: rgb(64, 45, 173);
+}
+nav ul {
+  display: flex;
+  width: 75%;
+  justify-content: space-around;
+  margin: auto;
+  background-color: #efd177;
+  border: 1px dashed black;
+}
+nav ul li a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+nav ul li {
+  list-style: none;
+  padding-top: 15px;
+  padding-bottom: 20px;
+}
+body {
+  background-color: #f0e7cb;
+}
