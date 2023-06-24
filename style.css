@@ -92,11 +92,11 @@ body {
 }
 nav ul {
   display: flex;
-  width: 75%;
-  justify-content: space-around;
-  margin: auto;
+  width: 35%;
   background-color: #efd177;
   border: 1px dashed black;
+  justify-content: space-around;
+  margin: auto;
 }
 nav ul li a {
   text-decoration: none;
@@ -109,4 +109,14 @@ nav ul li {
 }
 body {
   background-color: #f0e7cb;
+}
+.new-style {
+  position: relative;
+  margin: auto;
+}
+.top-ul {
+  position: absolute;
+  width: 40%;
+  top: 70%;
+  left: 30%;
 }
